@@ -14,6 +14,8 @@ function App() {
 
   return (
     <div>
+      <h1> Image Search </h1>
+
      <SearchBar onSubmit={handleSubmit}/>
      <Imagelist images={images}/>
      

@@ -1,0 +1,20 @@
+.formContainer{
+    padding: 10px;
+    display: inline-flex;
+}
+input{
+    height: 25px;
+  
+   
+}
+button{
+    height: 28px;
+    margin-left: 5px;
+    background-color: rgb(136, 120, 122) ;
+    border: none;
+    border-radius: 2px;
+}
+button:active{
+    
+    background-color: pink;
+}
